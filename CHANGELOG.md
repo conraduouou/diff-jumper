@@ -1,19 +1,9 @@
 # Change Log
 
-## [1.0.0] - 2025-04-06
+## [1.0.0] - 2026-10-20
 
 ### Added
-- Initial release of Compare Editor Jump
-- Command to jump to the original editor while maintaining visual alignment
-- Command to jump to the modified editor while maintaining visual alignment
-- New "Jump to Other Editor" command that automatically detects which editor you're in and jumps to the other one
-- Intelligent line mapping algorithm that correctly handles additions, deletions, and modifications
-
-## [1.0.1] - 2025-04-07
-
-- Downgrade the version of vscode to 1.96.0
-
-## [1.1.0] - 2025-04-17
-
-### Added
-- New command: `diffJumper.openDiffOnCurrentLine`
+- Forked!
+- Upgraded packages to address some vulnerability issues.
+- Made comparisons agnostic, so that it doesn't just rely on Git, making File comparisons work as well.
+- Fixed some addition changes logic.

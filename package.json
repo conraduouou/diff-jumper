@@ -1,15 +1,15 @@
 {
-  "name": "diff-jumper",
+  "name": "diff-jumper-louise-lalu",
   "icon": "assets/icon.png",
-  "displayName": "Diff Jumper",
-  "description": "Jump between diffs with ease",
-  "publisher": "VPALGOsro",
-  "version": "1.1.0",
+  "displayName": "Diff Jumper (Louise Lalu)",
+  "description": "A fork of VP ALGO's Diff Jumper",
+  "publisher": "louise-lalu",
+  "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/VPALGO-s-r-o/diff-jumper",
+  "homepage": "https://github.com/conraduouou/diff-jumper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VPALGO-s-r-o/diff-jumper"
+    "url": "https://github.com/conraduouou/diff-jumper"
   },
   "engines": {
     "vscode": "^1.96.0"

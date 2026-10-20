@@ -1,3 +1,9 @@
+# Forked!
+
+This is a fork of VP ALGO's Diff Jumper, which makes compare editors agnostic by not relying on Git as the primary diff engine. This makes comparisons done with `File` through the command palette work reliably as well.
+
+Initially made as a fix some addition logic, this then evolved to be something of a suggestion rather than a patch.
+
 # Compare Editor Jump
 
 ![](assets/diff-jumper.gif)
